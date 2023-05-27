@@ -56,3 +56,7 @@ const cards = [
         price: "$21.00"
     }
 ];
+
+const userArray = [
+  {id: 1, name: "John Doe"},
+]
